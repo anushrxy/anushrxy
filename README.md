@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anushrey Jain
 - 👀 I’m interested in Web3 Development.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that is interesting...
 - 📫 Reach me on Telegram @anushrxy
 
 <!---
